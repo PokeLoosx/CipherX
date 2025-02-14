@@ -19,3 +19,7 @@ Issues and Pull Requests are welcome to help improve the project.
 ### 📈 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PokeLoosx/CipherX&type=Date)](https://star-history.com/#PokeLoosx/CipherX&Date)
+
+### 📖 Reference
+
+- [v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface

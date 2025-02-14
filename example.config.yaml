@@ -1,0 +1,23 @@
+# MySQL configuration
+db:
+  path: 'localhost'
+  port: '3306'
+  db-name: ''
+  username: ''
+  password: ''
+  config: 'charset=utf8mb4&parseTime=True&loc=Local'
+  prefix: "" # Global table prefix, not effective if TableName is defined separately
+  singular: false # Whether to enable global disabling of plural, true means not enabled
+  engine: "" # Engine, default InnoDB
+  max-idle-conns: 10
+  max-open-conns: 100
+  log-mode: true
+  log-zap: true
+
+# Redis configuration
+redis:
+  host: 'localhost'
+  port: 6379
+  password: ''
+  db: 0
+  pool-size: 100
